@@ -15,8 +15,8 @@ public class App {
 
             System.out.println(bean1.getMessage());
             System.out.println(bean2.getMessage());
-            System.out.println(bean3.hashCode());
-            System.out.println(bean4.hashCode());
+            System.out.println(bean3==bean4);
+
 
 
 
